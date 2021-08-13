@@ -1,5 +1,5 @@
 import "./App.css";
-import ReducerCase1 from './useStateCase1/StateCase1';
+import ReducerCase1 from './useReducerCase1/ReducerCase1';
 
 function App() {
   return (
