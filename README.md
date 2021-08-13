@@ -1,1 +1,1 @@
-# react-hools-useReducer
+# react-hooks-useReducer
